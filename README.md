@@ -53,3 +53,10 @@ Feel free to reach out to me! I'm always open to collaborating on projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ka11yV&theme=radical" />
 </div>
 
+<a href="https://github.com/Ka11yV/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka11yV&layout=compact&theme=radical" alt="Top Languages" />
+</a>
+
+
+
+
