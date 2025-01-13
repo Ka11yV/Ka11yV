@@ -7,9 +7,8 @@
 Welcome to my GitHub profile! I'm passionate about coding and learning new technologies.
 
 ## 🌱 Currently working on
-- Building full-stack web applications using React, Node.js, and MongoDB
-- Exploring new frameworks like Spring Boot and Express
-- Improving my skills in Java and Zustand for state management
+- We are continuing to work on a website project using Spring Boot.
+- Exploring new frameworks like spring boot and JPA
 
 ## 🛠️ Languages and Tools
 Here are the technologies I'm currently using and learning:
