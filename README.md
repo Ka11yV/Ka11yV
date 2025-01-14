@@ -4,12 +4,6 @@
 
 # Hi there! 👋 I'm Ka11y
 
-Welcome to my GitHub profile! I'm passionate about coding and learning new technologies.
-
-## 🌱 Currently working on
-- We are continuing to work on a website project using Spring Boot.
-- Exploring new frameworks like spring boot and JPA
-
 ## 🛠️ Languages and Tools
 Here are the technologies I'm currently using and learning:
 
@@ -35,22 +29,18 @@ Here are the technologies I'm currently using and learning:
 
 </div>
 
-## 📚 Learning & Exploring
-- **Learning**: Advanced Java and Spring boot
-- **Exploring**: Spring Boot, Java Backend Development
-- **Improving**: SQL, JPA
 
-## 🤝 Let's Connect
-Feel free to reach out to me! I'm always open to collaborating on projects.
 
 - 📫 You can reach me via [email](mailto:elsword485667@gmail.com)
 - 💬 Ask me about anything tech-related, and I’ll do my best to help.
 
 <!-- GitHub Stats Section -->
 <div align="center">
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=Ka11yV&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ka11yV&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka11yV&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 </div>
 
 <a href="https://github.com/Ka11yV/github-readme-stats">
