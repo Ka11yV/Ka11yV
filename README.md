@@ -7,7 +7,7 @@
 ## 🛠️ Languages and Tools
 Here are the technologies I'm currently using and learning:
 
-<div>
+<!-- <div>
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -27,7 +27,7 @@ Here are the technologies I'm currently using and learning:
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
-</div>
+</div> -->
 
 
 
