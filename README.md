@@ -31,6 +31,6 @@ Hi there! 👋 I'm Ka11y
 
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
-<img src="https://www.google.com/search?q=https://render.gitanimals.org/lines/Ka11yV%3Fpet-id%3D1" width="1000" height="120" alt="Gitanimals Line Art" />
+  <img src="https://render.gitanimals.org/lines/{ka11y}?pet-id=2" width="1000" height="120"/>
 </a>
 </div>
