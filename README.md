@@ -45,10 +45,12 @@
 <a href="https://github.com/Ka11yV/github-readme-stats">
   
 </a>
-
-<a href="https://github.com/devxb/gitanimals">
+<div>
+  <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ka11yV}?pet-id=1" width="1000" height="120"/>
 </a>
+</div>
+
 
 
 
