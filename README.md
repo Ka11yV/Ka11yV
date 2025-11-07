@@ -4,8 +4,7 @@
 
 # Hi there! 👋 I'm Ka11y
 
-## 🛠️ Languages and Tools
-Here are the technologies I'm currently using and learning:
+
 
 <!-- <div>
   <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
