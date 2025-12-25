@@ -12,12 +12,6 @@ Hi there! 👋 I'm Ka11y
 
 💬 Ask me about anything tech-related, and I’ll do my best to help.
 
-<!-- 3. GITHUB STATS SECTION (GitHub Readme Stats, Streak Stats, Top Languages) -->
-
-<div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=Ka11yV&show_icons=true&theme=radical" alt="Ka11yV GitHub Stats" />
-
 <!-- GitHub Streak Card -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ka11yV&theme=radical" alt="GitHub Streak Stats" />
