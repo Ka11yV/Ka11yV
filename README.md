@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=280&section=header&text=Ka11y&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CE2626&center=true&vCenter=true&multiline=true&width=600&height=80&lines=discipline,+Lock+in" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CE2626&center=true&vCenter=true&multiline=true&width=600&height=80&lines=    discipline,+Lock+in" alt="Typing SVG" />
 
 </div>
 
