@@ -1,98 +1,78 @@
-<div align="center">
+# Ka11y
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=280&section=header&text=Ka11y&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
+백엔드와 데이터 흐름 설계에 강점을 두는 개발자입니다.  
+서비스의 핵심 로직과 시스템 흐름을 실제로 동작하는 결과물로 옮기는 데 집중하고 있습니다.
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&width=600&height=80&lines=discipline+Lock+in" alt="Typing SVG" />
+## 기본 정보
 
-</div>
+- 이름: `Ka11y`
+- GitHub: [@Ka11yV](https://github.com/Ka11yV)
+- 기반: `South Korea`
+- 관심 분야: `Backend`, `Data Flow`, `AI Integration`, `System Architecture`
+- 연락처: [kally.intech@gmail.com](mailto:kally.intech@gmail.com)
+- 이력서: [ka11yv.github.io/resume](https://ka11yv.github.io/resume/)
 
----
+## 소개
 
-## 🙋‍♀️ About Me
+공개 GitHub 프로젝트와 협업 기록을 바탕으로, 백엔드 구조 설계, 데이터 처리, 시스템 연결, AI 기능 연동을 중심으로 결과물을 쌓아 가고 있습니다.
 
-```typescript
-const Ka11y = {
-  name     : "Ka11y",
-  location : "South Korea 🇰🇷",
-  focus    : ["AI Integration", "Frontend Dev", "UX Design"],
-  currentProject : "🤖 Persona Frame — AI assistant inside a picture frame",
-  contact  : "kally.intech@gmail.com",
-};
-```
+- 아이디어 단계에서 멈추기보다 실제로 동작하는 기능을 빠르게 구조화하고 구현합니다.
+- 화면보다 먼저 서비스 내부 로직, 데이터 흐름, 연결 구조를 설계하는 편입니다.
+- 개인 프로젝트의 속도와 협업 프로젝트의 역할 분담을 모두 경험하며 꾸준히 결과물을 쌓아 왔습니다.
 
----
+## 기술 스택
 
-## 🔥 Current Project
+- Backend / Data: `Spring Boot`, `Java`, `Node.js`, `Python`, `MongoDB`, `MySQL`, `Pandas`, `Docker`
+- Application / Client: `SwiftUI`, `Swift`, `JavaScript`, `React`, `HTML/CSS`, `Tailwind CSS`
+- Tooling / Platform: `GitHub`, `Git`, `macOS`, `Maven`, `Netlify`
 
-<div align="center">
+## 대표 프로젝트
 
-[![Persona Frame](https://github-readme-stats.vercel.app/api/pin/?username=Ka11yV&repo=persona-frame&theme=tokyonight&border_color=7B68EE&title_color=7B68EE&icon_color=7B68EE)](https://github.com/Ka11yV/persona-frame)
+### Purby
+- 기간: `2026.03 - 2026.10`
+- 성격: `졸업작품 / 진행 중`
+- 설명: AI 기반 스마트 디바이스 어시스턴트 프로젝트로, 디바이스 연결, QR 페어링, 일정 관리, 서버 연동 구조를 중심으로 핵심 기능을 구체화하고 있습니다.
+- 링크: [App](https://github.com/ai-purby/purby) · [Backend](https://github.com/ai-purby/purby-backend)
 
-> 🗣 **"퍼비야"** 한 마디로 깨어나는 액자형 AI 어시스턴트  
-> 시간 · 날씨 · 일정을 보여주고, 음성으로 AI와 대화하는 스마트 대시보드
+### ClipSnap
+- 기간: `2026.04`
+- 성격: `개인 프로젝트`
+- 설명: 클립보드 이미지를 원하는 폴더에 바로 저장할 수 있도록 만든 macOS 메뉴바 유틸리티입니다.
+- 링크: [Repository](https://github.com/Ka11yV/clipsnap)
 
-</div>
+### 동백숲
+- 기간: `2025.11`
+- 성격: `팀 프로젝트`
+- 설명: 학생 생활에 필요한 공지, 과제, 강의평가 기능을 서비스 로직과 데이터 흐름 안에서 묶어 구현한 캠퍼스 플랫폼 프로젝트입니다.
+- 링크: [Repository](https://github.com/Ka11yV/Dongbaeksoop)
 
----
+### 대한민국 저출산 원인 분석
+- 기간: `2025.11`
+- 성격: `데이터 분석 프로젝트`
+- 설명: 시계열 데이터와 인식 데이터를 함께 분석해 저출산 현상을 설명한 프로젝트입니다.
+- 링크: [Repository](https://github.com/Ka11yV/kr-lowbirth-causes-analysis)
 
-## 🛠 Tech Stack
+### dev-ing
+- 기간: `2024.06 - 2024.07`
+- 성격: `팀 프로젝트`
+- 설명: 포스팅, 모임, Q&A 기능을 중심으로 협업 형태의 서비스 구현을 진행한 개발자 커뮤니티 프로젝트입니다.
+- 링크: [Backend](https://github.com/Ka11yV/dev-ing-be) · [Frontend](https://github.com/Ka11yV/dev-ing-fe)
 
-<div align="center">
+## 현재 집중하는 일
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+- 홈 디바이스 중심 AI 경험 설계와 구현
+- 일정, 음성 명령, 서버 연동 같은 핵심 기능 흐름 정리
+- 공개 저장소 기반으로 결과물을 설명 가능한 형태로 축적
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## 기록
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+기술 서적과 개발 개념을 읽고 다시 설명 가능한 형태로 정리하는 습관을 가지고 있습니다.
 
-</div>
+- [summary_of_technical_books](https://github.com/Ka11yV/summary_of_technical_books)
+- [정리본 웹으로 보기](https://saseungmin.github.io/summary_of_technical_books/)
 
----
+## 연락처
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ka11yV&layout=compact&theme=tokyonight&border_color=7B68EE&title_color=7B68EE"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ka11yV&theme=tokyonight&border=7B68EE&ring=7B68EE&fire=4B0082&currStreakLabel=7B68EE)](https://github.com/Ka11yV)
-
-</div>
-
----
-
-## 🐾 My GitHub Pet
-
-<div align="center">
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Ka11yV?pet-id=2" width="1000" height="120"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer" />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Ka11yV&color=7B68EE&style=flat-square&label=Visitors)
-
-</div>
+- GitHub: [@Ka11yV](https://github.com/Ka11yV)
+- Email: [kally.intech@gmail.com](mailto:kally.intech@gmail.com)
+- Resume: [ka11yv.github.io/resume](https://ka11yv.github.io/resume/)
