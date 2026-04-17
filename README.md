@@ -1,5 +1,3 @@
-# Ka11y
-
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=280&section=header&text=Ka11y&fontSize=72&fontColor=ffffff&fontAlignY=45&animation=fadeIn" />
 
